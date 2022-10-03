@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sivateja1034" target="blank"><img src="https://img.shields.io/twitter/follow/sivateja1034?logo=twitter&style=for-the-badge" alt="@sivateja1034" /></a> </p>
 
-- 🔭 I’m currently working on **social Media app**
+- 🔭 I’m currently working on **client Project In2Fans**
 
 - 🌱 I’m currently learning **react,next.js,sail.js,mySQL**
 
