@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **sivateja1034@outlook.com**
 
+- to know more about me **https://sivateja1995.github.io/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sivateja1034" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
