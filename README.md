@@ -1,3 +1,6 @@
+
+[![](https://visitcount.itsvg.in/api?id=sivateja1995&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 - 🔭 I’m currently working on [onesports Academy Management](https://1sports.app)<br><br>- 🌱 I’m currently learning **node.js,PostgreSQL,react**<br><br>- 💬 Ask me about **Angular,node.js(express& loopback)**<br><br>- 📫 How to reach me **sivateja1034@gmail.com**
 
@@ -22,6 +25,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sivateja1995&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
